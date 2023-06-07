@@ -14,8 +14,8 @@ npx hardhat run scripts/deploy.js
 
 ## Project Setup
 
-> yarn install
-> yarn hardhat run scripts/aaveBorrow.js
+> yarn install <br> 
+> yarn hardhat run ./scripts/aaveBorrow.js
 
 1. Deposit Colateral : ETH / WETH
 2. Borrow : DAI
